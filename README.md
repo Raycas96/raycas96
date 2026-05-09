@@ -9,8 +9,8 @@ These days, my main language is JavaScript. I use it for pretty much everything 
 Beyond writing code, I am deeply passionate about digital defense and ethical hacking. I am currently studying for my degree in SSRI (Sicurezza dei sistemi e delle reti informatiche) at the Università Statale di Milano. To back up my studies, I have earned my Certified Ethical Hacker (CEH) and Computer Hacking Forensic Investigator (CHFI) certifications from the EC-Council, and I actively practice on Hack The Box.
 
 ### 💻 My Tech Stack
-* **Frontend:** React, Next.js, Redux, Angular
-* **Backend:** Node.js, Express, Python, Go
+* **Frontend:** React, Next.js, Redux, Zustand, Jotai
+* **Backend:** Node.js, Express, NestJS, Fastify, Go
 * **Security:** Ethical Hacking (CEH), Digital Forensics (CHFI), Hack The Box
 
 ---
